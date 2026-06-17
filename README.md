@@ -1,33 +1,41 @@
 # Hi, I'm Sushrut Diwan 👋
 
-🎓 Robotics & Automation Engineering Student
-🤖 Interested in AI, Machine Learning, Robotics and Automation
-📍 Maharashtra, India
+🎓 Final Year Robotics & Automation Engineering Student
+
+🤖 Interested in AI, Machine Learning, Robotics and Industrial Automation
 
 ## Skills
-- Python
-- Machine Learning
-- Arduino
-- Robotics
-- Automation
-- NumPy
-- Pandas
-- Matplotlib
+
+* Python
+* Machine Learning
+* Data Analysis
+* Arduino
+* FANUC Robot Programming
+* NumPy
+* Pandas
+* Scikit-learn
 
 ## Projects
-### Light Intensity Control System
-Arduino-based system to control light intensity using sensors.
 
-### Machine Learning Projects
-- House Price Prediction
-- Student Performance Prediction
-- Customer Segmentation
+### Customer Purchase Prediction System
+
+Machine learning model developed using Python and Scikit-learn.
+
+### FANUC Robot Programming
+
+Industrial robot programming and automation during internship.
+
+### LED Display Using Arduino Uno
+
+Designed an Arduino-based LED display system.
 
 ## Currently Learning
-- Machine Learning
-- Deep Learning
-- Computer Vision
+
+* Machine Learning
+* Deep Learning
+* Generative AI
 
 ## Connect With Me
-- LinkedIn: 
-- Email: sushrutdiwan2730@gmail.com
+
+* LinkedIn: Add your LinkedIn URL here
+linkedin.com/in/sushrut-diwan-268235282
