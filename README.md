@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sushrut Diwan 👋
 
-<!--
-**sushrutd25/Sushrutd25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Robotics & Automation Engineering Student
+🤖 Interested in AI, Machine Learning, Robotics and Automation
+📍 Maharashtra, India
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- Arduino
+- Robotics
+- Automation
+- NumPy
+- Pandas
+- Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Light Intensity Control System
+Arduino-based system to control light intensity using sensors.
+
+### Machine Learning Projects
+- House Price Prediction
+- Student Performance Prediction
+- Customer Segmentation
+
+## Currently Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+
+## Connect With Me
+- LinkedIn: 
+- Email: sushrutdiwan2730@gmail.com
